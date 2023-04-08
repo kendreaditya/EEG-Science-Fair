@@ -1,0 +1,16 @@
+64_channel_sharbrough.pdf
+ADHD
+BP
+Disorders_Project_Assignments.xlsx
+OCD
+PTSD
+addiction
+anxiety
+autism
+bipolar_disorder
+dataGatherer
+depression
+normal
+panic_disorder
+pre-processed_data
+schizophrenia

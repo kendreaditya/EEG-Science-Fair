@@ -1,0 +1,8 @@
+Develop Spatial interpolation from deep EEGs for accurate interpolation between electrodes
+Create an algorithm to model electrical activity within the brain to more precisely develop a spital model of the brain.
+
+Develop Machine Learning-Based Psychiatric Illness Detection System: Develop a novel machine-learning algorithm that implements Convolution Neural Networks.
+
+Implement Algorithm and Non-Invasive BCI System: Combing the machine learning algorithm to analyze real-time incoming data from the EEG.
+
+Real-world Clinical testing: Test system accuracy and viability through conducting clinical trials.
